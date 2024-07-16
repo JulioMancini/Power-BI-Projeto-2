@@ -31,3 +31,17 @@
 
 ![image](https://github.com/user-attachments/assets/0b8b13bd-849c-475e-9533-dad2c6a9834b)
 
+* Mais uma medida chamada Ganho/Perdas, aproveitando as duas medidas anteriores
+
+`Ganho/Perdas = [Valor Total Corrente]-[Valor Total Investido]`
+
+![image](https://github.com/user-attachments/assets/fc17529c-20b2-41ff-88d8-e626a21ec4b4)
+
+* Outra Medida chamada retorno
+
+`Retorno = DIVIDE([Valor Total Corrente];[Valor Total Investido]-1)`
+
+![image](https://github.com/user-attachments/assets/97ddcb12-e11f-4265-8c51-45d6cb0bc89a)
+
+
+
